@@ -2,8 +2,6 @@
 
 An AI-powered solution for detecting damage and performance issues in solar panels using deep learning and computer vision. This system enables preventive maintenance, maximizes clean energy output, and reduces operational costs.
 
-![Solar Panel Detection](https://via.placeholder.com/800x200/FF6B35/FFFFFF?text=AI-Powered+Solar+Panel+Maintenance)
-
 ## 🎯 Overview
 
 This project addresses the critical challenge of maintaining solar panel efficiency through early damage detection. By analyzing images from regular cameras, mobile phones, or drones, the system identifies:
