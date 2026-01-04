@@ -1,0 +1,24 @@
+# Core dependencies
+streamlit
+tensorflow
+keras
+
+# Image processing
+pillow
+opencv-python
+
+# Data science
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Kaggle API
+kaggle
+
+# Additional utilities
+tf-keras-vis  # For Grad-CAM visualizations
